@@ -1,5 +1,5 @@
 {
-    "name": "peterkahl/country-to-locale",
+    "name": "therichman/country-to-locale",
     "type": "library",
     "description": "Converts country code to locale code.",
     "keywords": ["locale", "localization", "language-code"],
